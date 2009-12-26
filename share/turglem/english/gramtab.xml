@@ -1,0 +1,57 @@
+<gramtab>
+    <parts_of_speech>
+        <PoS id="0"  short="NOUN"                     >noun</PoS>                   <!-- desk      -->
+        <PoS id="1"  short="ADJ_FULL"                 >adjective</PoS>              <!-- delicious -->
+        <PoS id="2"  short="VERB"                     >verb</PoS>                   <!-- stand     -->
+        <PoS id="3"  short="VBE"                      >be-verb</PoS>                <!-- be        -->
+        <PoS id="4"  short="MOD"                      >modal verb</PoS>             <!-- can       -->
+        <PoS id="5"  short="NUMERAL"                  >cardinal numeral</PoS>       <!-- seven     -->
+        <PoS id="6"  short="CONJ"                     >conjunction</PoS>            <!-- and       -->
+        <PoS id="7"  short="INTERJ"                   >interjection</PoS>           <!-- oops      -->
+        <PoS id="8"  short="PREP"                     >preposition</PoS>            <!-- of        -->
+        <PoS id="9"  short="PARTICLE"                 >particle</PoS>               <!-- yes       -->
+        <PoS id="10" short="ART"                      >article</PoS>                <!-- the       -->
+        <PoS id="11" short="ADV"                      >adverb</PoS>                 <!-- suddenly  -->
+        <PoS id="12" short="PN"                       >personal pronoun</PoS>       <!-- myself    -->
+        <PoS id="13" short="ORDNUM"                   >ordinal numeral</PoS>        <!-- seventh   -->
+        <PoS id="14" short="PRON"                     >indefinite pronoun</PoS>     <!-- someone   -->
+        <PoS id="15" short="POSS"                     ></PoS>                       <!-- d's       -->
+        <PoS id="16" short="PN_ADJ"                   >demonstrative pronoun</PoS>  <!-- such      -->
+    </part_of_speech>
+    <grammems>
+        <grammem id="0"  short="plural"               ></grammem>
+        <grammem id="1"  short="singular"             ></grammem>
+        <grammem id="2"  short="masculinum"           ></grammem>
+        <grammem id="3"  short="feminum"              ></grammem>
+        <grammem id="4"  short="animative"            ></grammem>
+        <grammem id="5"  short="perfective"           ></grammem>
+        <grammem id="6"  short="nominative"           ></grammem>
+        <grammem id="7"  short="objectcase"           ></grammem>
+        <grammem id="8"  short="narrative"            ></grammem>
+        <grammem id="9"  short="geographics"          ></grammem>
+        <grammem id="10" short="proper"               ></grammem>
+        <grammem id="11" short="personalpronoun"      ></grammem>
+        <grammem id="12" short="possessive"           ></grammem>
+        <grammem id="13" short="predicative"          ></grammem>
+        <grammem id="14" short="uncountable"          ></grammem>
+        <grammem id="15" short="reflexivepronoun"     ></grammem>
+        <grammem id="16" short="demonstrativepronoun" ></grammem>
+        <grammem id="17" short="mass"                 ></grammem>
+        <grammem id="18" short="comparativ"           ></grammem>
+        <grammem id="19" short="supremum"             ></grammem>
+        <grammem id="20" short="firstperson"          ></grammem>
+        <grammem id="21" short="secondperson"         ></grammem>
+        <grammem id="22" short="thirdperson"          ></grammem>
+        <grammem id="23" short="presentindef"         ></grammem>
+        <grammem id="24" short="infinitive"           ></grammem>
+        <grammem id="25" short="pastindef"            ></grammem>
+        <grammem id="26" short="pastparticiple"       ></grammem>
+        <grammem id="27" short="gerund"               ></grammem>
+        <grammem id="28" short="futurum"              ></grammem>
+        <grammem id="29" short="conditional"          ></grammem>
+        <grammem id="30" short="apostrophes"          ></grammem>
+        <grammem id="31" short="apostrophe"           ></grammem>
+        <grammem id="32" short="names"                ></grammem>
+        <grammem id="33" short="organisation"         ></grammem>
+    </grammems>
+</gramtab>

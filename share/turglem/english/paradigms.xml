@@ -1,0 +1,2599 @@
+<paradigms>
+	<paradigm id="0">
+		<f id="0" s="S" g="1073741824" ps="15" />
+		<f id="1" s="" g="2147483648" ps="15" />
+	</paradigm>
+	<paradigm id="1">
+		<f id="0" s="" g="257" ps="0" />
+	</paradigm>
+	<paradigm id="2">
+		<f id="0" s="" g="0" ps="8" />
+	</paradigm>
+	<paradigm id="3">
+		<f id="0" s="" g="0" ps="10" />
+	</paradigm>
+	<paradigm id="4">
+		<f id="0" s="" g="0" ps="11" />
+	</paradigm>
+	<paradigm id="5">
+		<f id="0" s="" g="0" ps="1" />
+	</paradigm>
+	<paradigm id="6">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="7">
+		<f id="0" s="" g="0" ps="7" />
+	</paradigm>
+	<paradigm id="8">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="9">
+		<f id="0" s="F" g="257" ps="0" />
+		<f id="1" s="VES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="10">
+		<f id="0" s="" g="1024" ps="0" />
+	</paradigm>
+	<paradigm id="11">
+		<f id="0" s="" g="1029" ps="0" />
+		<f id="1" s="S" g="1030" ps="0" />
+	</paradigm>
+	<paradigm id="12">
+		<f id="0" s="US" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="13">
+		<f id="0" s="" g="16641" ps="0" />
+	</paradigm>
+	<paradigm id="14">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="15">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="16">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+		<f id="2" s="SES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="17">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="18">
+		<f id="0" s="Y" g="257" ps="0" />
+		<f id="1" s="IES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="19">
+		<f id="0" s="" g="1024" ps="1" />
+	</paradigm>
+	<paradigm id="20">
+		<f id="0" s="" g="1033" ps="0" />
+		<f id="1" s="S" g="1034" ps="0" />
+	</paradigm>
+	<paradigm id="21">
+		<f id="0" s="Y" g="1033" ps="0" />
+		<f id="1" s="IES" g="1034" ps="0" />
+	</paradigm>
+	<paradigm id="22">
+		<f id="0" s="UM" g="257" ps="0" />
+		<f id="1" s="A" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="23">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="TED" g="33554432" ps="2" />
+		<f id="3" s="TED" g="67108864" ps="2" />
+		<f id="4" s="TING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="24">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="RED" g="33554432" ps="2" />
+		<f id="3" s="RED" g="67108864" ps="2" />
+		<f id="4" s="RING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="25">
+		<f id="0" s="IDE" g="16777216" ps="2" />
+		<f id="1" s="IDES" g="12582913" ps="2" />
+		<f id="2" s="IDED" g="33554432" ps="2" />
+		<f id="3" s="ODE" g="33554432" ps="2" />
+		<f id="4" s="IDDEN" g="67108864" ps="2" />
+		<f id="5" s="IDED" g="67108864" ps="2" />
+		<f id="6" s="ODE" g="67108864" ps="2" />
+		<f id="7" s="IDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="26">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="R" g="262144" ps="1" />
+		<f id="2" s="ST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="27">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+		<f id="2" s="X" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="28">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="PED" g="33554432" ps="2" />
+		<f id="3" s="PED" g="67108864" ps="2" />
+		<f id="4" s="PING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="29">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="E" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="30">
+		<f id="0" s="Y" g="1029" ps="0" />
+		<f id="1" s="IES" g="1030" ps="0" />
+	</paradigm>
+	<paradigm id="31">
+		<f id="0" s="" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="32">
+		<f id="0" s="N" g="257" ps="0" />
+		<f id="1" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="33">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+		<f id="2" s="OS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="34">
+		<f id="0" s="Y" g="16777216" ps="2" />
+		<f id="1" s="IES" g="12582913" ps="2" />
+		<f id="2" s="IED" g="33554432" ps="2" />
+		<f id="3" s="IED" g="67108864" ps="2" />
+		<f id="4" s="YING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="35">
+		<f id="0" s="" g="1029" ps="0" />
+		<f id="1" s="ES" g="1030" ps="0" />
+	</paradigm>
+	<paradigm id="36">
+		<f id="0" s="Y" g="0" ps="1" />
+		<f id="1" s="IER" g="262144" ps="1" />
+		<f id="2" s="IEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="37">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="38">
+		<f id="0" s="" g="131329" ps="0" />
+		<f id="1" s="S" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="39">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="'S" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="40">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+		<f id="2" s="TA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="41">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="42">
+		<f id="0" s="IS" g="257" ps="0" />
+		<f id="1" s="EIS" g="258" ps="0" />
+		<f id="2" s="ISES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="43">
+		<f id="0" s="R" g="257" ps="0" />
+		<f id="1" s="RIA" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="44">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="BED" g="33554432" ps="2" />
+		<f id="3" s="BED" g="67108864" ps="2" />
+		<f id="4" s="BING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="45">
+		<f id="0" s="AN" g="257" ps="0" />
+		<f id="1" s="EN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="46">
+		<f id="0" s="X" g="257" ps="0" />
+		<f id="1" s="CES" g="258" ps="0" />
+		<f id="2" s="XES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="47">
+		<f id="0" s="" g="0" ps="6" />
+	</paradigm>
+	<paradigm id="48">
+		<f id="0" s="FE" g="257" ps="0" />
+		<f id="1" s="VES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="49">
+		<f id="0" s="" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="50">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="AE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="51">
+		<f id="0" s="UM" g="257" ps="0" />
+		<f id="1" s="A" g="258" ps="0" />
+		<f id="2" s="UMS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="52">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="53">
+		<f id="0" s="" g="1033" ps="0" />
+		<f id="1" s="ES" g="1034" ps="0" />
+	</paradigm>
+	<paradigm id="54">
+		<f id="0" s="EN" g="257" ps="0" />
+		<f id="1" s="ENS" g="258" ps="0" />
+		<f id="2" s="INA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="55">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="56">
+		<f id="0" s="A" g="257" ps="0" />
+		<f id="1" s="OT" g="258" ps="0" />
+		<f id="2" s="OTH" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="57">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="D" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="58">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="ZES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="59">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="A" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="60">
+		<f id="0" s="EY" g="0" ps="1" />
+		<f id="1" s="IER" g="262144" ps="1" />
+		<f id="2" s="IEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="61">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="62">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="ER" g="262144" ps="1" />
+		<f id="2" s="EST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="63">
+		<f id="0" s="ON" g="257" ps="0" />
+		<f id="1" s="A" g="258" ps="0" />
+		<f id="2" s="ONS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="64">
+		<f id="0" s="GHT" g="16777216" ps="2" />
+		<f id="1" s="GHTS" g="12582913" ps="2" />
+		<f id="2" s="GHTED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="GHTED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="GHTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="65">
+		<f id="0" s="" g="0" ps="14" />
+	</paradigm>
+	<paradigm id="66">
+		<f id="0" s="" g="1037" ps="0" />
+		<f id="1" s="S" g="1038" ps="0" />
+	</paradigm>
+	<paradigm id="67">
+		<f id="0" s="Y" g="1037" ps="0" />
+		<f id="1" s="IES" g="1038" ps="0" />
+	</paradigm>
+	<paradigm id="68">
+		<f id="0" s="IS" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="69">
+		<f id="0" s="ON" g="257" ps="0" />
+		<f id="1" s="A" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="70">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+		<f id="2" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="71">
+		<f id="0" s="" g="0" ps="5" />
+	</paradigm>
+	<paradigm id="72">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="LED" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="LED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+		<f id="7" s="LING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="73">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+		<f id="2" s="ES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="74">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="LED" g="33554432" ps="2" />
+		<f id="3" s="LED" g="67108864" ps="2" />
+		<f id="4" s="LING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="75">
+		<f id="0" s="" g="0" ps="16" />
+	</paradigm>
+	<paradigm id="76">
+		<f id="0" s="X" g="257" ps="0" />
+		<f id="1" s="CES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="77">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="DES" g="258" ps="0" />
+		<f id="2" s="SES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="78">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="L" g="16777216" ps="2" />
+		<f id="2" s="LS" g="12582913" ps="2" />
+		<f id="3" s="S" g="12582913" ps="2" />
+		<f id="4" s="ED" g="33554432" ps="2" />
+		<f id="5" s="LED" g="33554432" ps="2" />
+		<f id="6" s="ED" g="67108864" ps="2" />
+		<f id="7" s="LED" g="67108864" ps="2" />
+		<f id="8" s="ING" g="134217728" ps="2" />
+		<f id="9" s="LING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="79">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="KED" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="KED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="80">
+		<f id="0" s="ISE" g="16777216" ps="2" />
+		<f id="1" s="ISES" g="12582913" ps="2" />
+		<f id="2" s="OSE" g="33554432" ps="2" />
+		<f id="3" s="ISEN" g="67108864" ps="2" />
+		<f id="4" s="ISING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="81">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="82">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="SES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="83">
+		<f id="0" s="-AT-LAW" g="257" ps="0" />
+		<f id="1" s="S-AT-LAW" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="84">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="85">
+		<f id="0" s="-IN-LAW" g="257" ps="0" />
+		<f id="1" s="S-IN-LAW" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="86">
+		<f id="0" s="EX" g="257" ps="0" />
+		<f id="1" s="ICES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="87">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="EN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="88">
+		<f id="0" s="A" g="257" ps="0" />
+		<f id="1" s="AS" g="258" ps="0" />
+		<f id="2" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="89">
+		<f id="0" s="AKE" g="16777216" ps="2" />
+		<f id="1" s="AKES" g="12582913" ps="2" />
+		<f id="2" s="AKED" g="33554432" ps="2" />
+		<f id="3" s="OKE" g="33554432" ps="2" />
+		<f id="4" s="AKED" g="67108864" ps="2" />
+		<f id="5" s="OKEN" g="67108864" ps="2" />
+		<f id="6" s="AKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="90">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="IM" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="91">
+		<f id="0" s="IT" g="16777216" ps="2" />
+		<f id="1" s="ITS" g="12582913" ps="2" />
+		<f id="2" s="AT" g="33554432" ps="2" />
+		<f id="3" s="AT" g="67108864" ps="2" />
+		<f id="4" s="ITTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="92">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="TEN" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="93">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="DEN" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="94">
+		<f id="0" s="IND" g="16777216" ps="2" />
+		<f id="1" s="INDS" g="12582913" ps="2" />
+		<f id="2" s="OUND" g="33554432" ps="2" />
+		<f id="3" s="OUND" g="67108864" ps="2" />
+		<f id="4" s="INDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="95">
+		<f id="0" s="BAD" g="0" ps="1" />
+		<f id="1" s="WORSE" g="262144" ps="1" />
+		<f id="2" s="WORST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="96">
+		<f id="0" s="BAD" g="0" ps="11" />
+		<f id="1" s="WORSE" g="262144" ps="11" />
+		<f id="2" s="WORST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="97">
+		<f id="0" s="BADLY" g="0" ps="11" />
+		<f id="1" s="WORSE" g="262144" ps="11" />
+		<f id="2" s="WORST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="98">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="GED" g="33554432" ps="2" />
+		<f id="3" s="GED" g="67108864" ps="2" />
+		<f id="4" s="GING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="99">
+		<f id="0" s="" g="147713" ps="0" />
+		<f id="1" s="S" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="100">
+		<f id="0" s="UM" g="257" ps="0" />
+		<f id="1" s="AE" g="258" ps="0" />
+		<f id="2" s="A" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="101">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="MED" g="33554432" ps="2" />
+		<f id="3" s="MED" g="67108864" ps="2" />
+		<f id="4" s="MING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="102">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="NED" g="33554432" ps="2" />
+		<f id="3" s="NED" g="67108864" ps="2" />
+		<f id="4" s="NING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="103">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+		<f id="2" s="TI" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="104">
+		<f id="0" s="O" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="OES" g="12582913" ps="2" />
+		<f id="3" s="ED" g="33554432" ps="2" />
+		<f id="4" s="OED" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+		<f id="6" s="OING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="105">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="X" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="106">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="TED" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="TED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+		<f id="7" s="TING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="107">
+		<f id="0" s="BE" g="16777216" ps="3" />
+		<f id="1" s="AM" g="9437185" ps="3" />
+		<f id="2" s="IS" g="12582913" ps="3" />
+		<f id="3" s="ARE" g="8388610" ps="3" />
+		<f id="4" s="BEING" g="134217728" ps="3" />
+		<f id="5" s="WAS" g="33554433" ps="3" />
+		<f id="6" s="WERE" g="33554434" ps="3" />
+		<f id="7" s="BEEN" g="67108864" ps="3" />
+		<f id="8" s="WILL" g="269484033" ps="3" />
+		<f id="9" s="WILL" g="275775491" ps="3" />
+		<f id="10" s="WAS" g="540016641" ps="3" />
+		<f id="11" s="WERE" g="540016641" ps="3" />
+		<f id="12" s="WAS" g="541065217" ps="3" />
+		<f id="13" s="WERE" g="536870914" ps="3" />
+	</paradigm>
+	<paradigm id="108">
+		<f id="0" s="EAR" g="16777216" ps="2" />
+		<f id="1" s="EARS" g="12582913" ps="2" />
+		<f id="2" s="ORE" g="33554432" ps="2" />
+		<f id="3" s="ORN" g="67108864" ps="2" />
+		<f id="4" s="ORNE" g="67108864" ps="2" />
+		<f id="5" s="EARING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="109">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="EN" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="110">
+		<f id="0" s="OME" g="16777216" ps="2" />
+		<f id="1" s="OMES" g="12582913" ps="2" />
+		<f id="2" s="AME" g="33554432" ps="2" />
+		<f id="3" s="OME" g="67108864" ps="2" />
+		<f id="4" s="OMING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="111">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="DED" g="33554432" ps="2" />
+		<f id="3" s="DED" g="67108864" ps="2" />
+		<f id="4" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="112">
+		<f id="0" s="ALL" g="16777216" ps="2" />
+		<f id="1" s="ALLS" g="12582913" ps="2" />
+		<f id="2" s="ELL" g="33554432" ps="2" />
+		<f id="3" s="ALLEN" g="67108864" ps="2" />
+		<f id="4" s="ALLING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="113">
+		<f id="0" s="ET" g="16777216" ps="2" />
+		<f id="1" s="ETS" g="12582913" ps="2" />
+		<f id="2" s="OT" g="33554432" ps="2" />
+		<f id="3" s="OT" g="67108864" ps="2" />
+		<f id="4" s="OTTEN" g="67108864" ps="2" />
+		<f id="5" s="ETTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="114">
+		<f id="0" s="IN" g="16777216" ps="2" />
+		<f id="1" s="INS" g="12582913" ps="2" />
+		<f id="2" s="AN" g="33554432" ps="2" />
+		<f id="3" s="UN" g="67108864" ps="2" />
+		<f id="4" s="INNING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="115">
+		<f id="0" s="D" g="16777216" ps="2" />
+		<f id="1" s="DS" g="12582913" ps="2" />
+		<f id="2" s="DED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="T" g="67108864" ps="2" />
+		<f id="5" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="116">
+		<f id="0" s="OLD" g="16777216" ps="2" />
+		<f id="1" s="OLDS" g="12582913" ps="2" />
+		<f id="2" s="ELD" g="33554432" ps="2" />
+		<f id="3" s="ELD" g="67108864" ps="2" />
+		<f id="4" s="OLDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="117">
+		<f id="0" s="Y" g="16777216" ps="2" />
+		<f id="1" s="YS" g="12582913" ps="2" />
+		<f id="2" s="ID" g="33554432" ps="2" />
+		<f id="3" s="YED" g="33554432" ps="2" />
+		<f id="4" s="ID" g="67108864" ps="2" />
+		<f id="5" s="YED" g="67108864" ps="2" />
+		<f id="6" s="YIG" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="118">
+		<f id="0" s="IE" g="16777216" ps="2" />
+		<f id="1" s="IES" g="12582913" ps="2" />
+		<f id="2" s="IED" g="33554432" ps="2" />
+		<f id="3" s="IED" g="67108864" ps="2" />
+		<f id="4" s="YING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="119">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="TA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="120">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="NER" g="262144" ps="1" />
+		<f id="2" s="NEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="121">
+		<f id="0" s="D" g="16777216" ps="2" />
+		<f id="1" s="DS" g="12582913" ps="2" />
+		<f id="2" s="T" g="33554432" ps="2" />
+		<f id="3" s="T" g="67108864" ps="2" />
+		<f id="4" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="122">
+		<f id="0" s="AVE" g="16777216" ps="2" />
+		<f id="1" s="AVES" g="12582913" ps="2" />
+		<f id="2" s="AVED" g="33554432" ps="2" />
+		<f id="3" s="FT" g="33554432" ps="2" />
+		<f id="4" s="AVED" g="67108864" ps="2" />
+		<f id="5" s="FT" g="67108864" ps="2" />
+		<f id="6" s="AVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="123">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="124">
+		<f id="0" s="EECH" g="16777216" ps="2" />
+		<f id="1" s="EECHES" g="12582913" ps="2" />
+		<f id="2" s="EECHED" g="33554432" ps="2" />
+		<f id="3" s="OUGHT" g="33554432" ps="2" />
+		<f id="4" s="EECHED" g="67108864" ps="2" />
+		<f id="5" s="OUGHT" g="67108864" ps="2" />
+		<f id="6" s="EECHING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="125">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="TING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="126">
+		<f id="0" s="EAK" g="16777216" ps="2" />
+		<f id="1" s="EAKS" g="12582913" ps="2" />
+		<f id="2" s="AKE" g="33554432" ps="2" />
+		<f id="3" s="OKE" g="33554432" ps="2" />
+		<f id="4" s="OKE" g="67108864" ps="2" />
+		<f id="5" s="OKEN" g="67108864" ps="2" />
+		<f id="6" s="EAKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="127">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="128">
+		<f id="0" s="AD" g="16777216" ps="2" />
+		<f id="1" s="ADS" g="12582913" ps="2" />
+		<f id="2" s="ADED" g="33554432" ps="2" />
+		<f id="3" s="AD" g="67108864" ps="2" />
+		<f id="4" s="ADED" g="67108864" ps="2" />
+		<f id="5" s="D" g="67108864" ps="2" />
+		<f id="6" s="ADING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="129">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="N" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="130">
+		<f id="0" s="IDE" g="16777216" ps="2" />
+		<f id="1" s="IDES" g="12582913" ps="2" />
+		<f id="2" s="ODE" g="33554432" ps="2" />
+		<f id="3" s="IDDEN" g="67108864" ps="2" />
+		<f id="4" s="ID" g="67108864" ps="2" />
+		<f id="5" s="IDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="131">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="TED" g="33554432" ps="2" />
+		<f id="4" s="" g="67108864" ps="2" />
+		<f id="5" s="TED" g="67108864" ps="2" />
+		<f id="6" s="TING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="132">
+		<f id="0" s="AKE" g="16777216" ps="2" />
+		<f id="1" s="AKES" g="12582913" ps="2" />
+		<f id="2" s="OOK" g="33554432" ps="2" />
+		<f id="3" s="AKEN" g="67108864" ps="2" />
+		<f id="4" s="AKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="133">
+		<f id="0" s="INK" g="16777216" ps="2" />
+		<f id="1" s="INKS" g="12582913" ps="2" />
+		<f id="2" s="OUGHT" g="33554432" ps="2" />
+		<f id="3" s="OUGHT" g="67108864" ps="2" />
+		<f id="4" s="INKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="134">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="135">
+		<f id="0" s="EP" g="16777216" ps="2" />
+		<f id="1" s="EPS" g="12582913" ps="2" />
+		<f id="2" s="PT" g="33554432" ps="2" />
+		<f id="3" s="PT" g="67108864" ps="2" />
+		<f id="4" s="EPING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="136">
+		<f id="0" s="ITE" g="16777216" ps="2" />
+		<f id="1" s="ITES" g="12582913" ps="2" />
+		<f id="2" s="OTE" g="33554432" ps="2" />
+		<f id="3" s="ITTEN" g="67108864" ps="2" />
+		<f id="4" s="ITING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="137">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="SES" g="12582913" ps="2" />
+		<f id="3" s="ED" g="33554432" ps="2" />
+		<f id="4" s="SED" g="33554432" ps="2" />
+		<f id="5" s="ED" g="67108864" ps="2" />
+		<f id="6" s="SED" g="67108864" ps="2" />
+		<f id="7" s="ING" g="134217728" ps="2" />
+		<f id="8" s="SING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="138">
+		<f id="0" s="ID" g="16777216" ps="2" />
+		<f id="1" s="IDS" g="12582913" ps="2" />
+		<f id="2" s="ID" g="33554432" ps="2" />
+		<f id="3" s="ADE" g="33554432" ps="2" />
+		<f id="4" s="AD" g="33554432" ps="2" />
+		<f id="5" s="ID" g="67108864" ps="2" />
+		<f id="6" s="IDDEN" g="67108864" ps="2" />
+		<f id="7" s="IDDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="139">
+		<f id="0" s="IDE" g="16777216" ps="2" />
+		<f id="1" s="IDES" g="12582913" ps="2" />
+		<f id="2" s="IDED" g="33554432" ps="2" />
+		<f id="3" s="ODE" g="33554432" ps="2" />
+		<f id="4" s="IDED" g="67108864" ps="2" />
+		<f id="5" s="IDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="140">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="GER" g="262144" ps="1" />
+		<f id="2" s="GEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="141">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="TEN" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="142">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="KS" g="12582913" ps="2" />
+		<f id="2" s="S" g="12582913" ps="2" />
+		<f id="3" s="KED" g="33554432" ps="2" />
+		<f id="4" s="KED" g="67108864" ps="2" />
+		<f id="5" s="KING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="143">
+		<f id="0" s="ED" g="16777216" ps="2" />
+		<f id="1" s="EDS" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="D" g="67108864" ps="2" />
+		<f id="4" s="EDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="144">
+		<f id="0" s="D" g="16777216" ps="2" />
+		<f id="1" s="DS" g="12582913" ps="2" />
+		<f id="2" s="DED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="DED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="145">
+		<f id="0" s="S" g="16777216" ps="2" />
+		<f id="1" s="SES" g="12582913" ps="2" />
+		<f id="2" s="SED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="SED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="SING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="146">
+		<f id="0" s="OW" g="16777216" ps="2" />
+		<f id="1" s="OWS" g="12582913" ps="2" />
+		<f id="2" s="EW" g="33554432" ps="2" />
+		<f id="3" s="OWN" g="67108864" ps="2" />
+		<f id="4" s="OWING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="147">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="BER" g="262144" ps="1" />
+		<f id="2" s="BEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="148">
+		<f id="0" s="Y" g="131329" ps="0" />
+		<f id="1" s="IES" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="149">
+		<f id="0" s="EAK" g="16777216" ps="2" />
+		<f id="1" s="EAKS" g="12582913" ps="2" />
+		<f id="2" s="OKE" g="33554432" ps="2" />
+		<f id="3" s="OKEN" g="67108864" ps="2" />
+		<f id="4" s="EAKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="150">
+		<f id="0" s="ING" g="16777216" ps="2" />
+		<f id="1" s="INGS" g="12582913" ps="2" />
+		<f id="2" s="OUGHT" g="33554432" ps="2" />
+		<f id="3" s="OUGHT" g="67108864" ps="2" />
+		<f id="4" s="INGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="151">
+		<f id="0" s="OTHER" g="257" ps="0" />
+		<f id="1" s="ETHREN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="152">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="EN" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="153">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="TER" g="262144" ps="1" />
+		<f id="2" s="TEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="154">
+		<f id="0" s="OOTH" g="257" ps="0" />
+		<f id="1" s="EETH" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="155">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="MER" g="262144" ps="1" />
+		<f id="2" s="MEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="156">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="157">
+		<f id="0" s="UY" g="16777216" ps="2" />
+		<f id="1" s="UYS" g="12582913" ps="2" />
+		<f id="2" s="OUGHT" g="33554432" ps="2" />
+		<f id="3" s="OUGHT" g="67108864" ps="2" />
+		<f id="4" s="UYING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="158">
+		<f id="0" s="AN" g="16777216" ps="4" />
+		<f id="1" s="OULD" g="33554432" ps="4" />
+	</paradigm>
+	<paradigm id="159">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+		<f id="2" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="160">
+		<f id="0" s="A" g="257" ps="0" />
+		<f id="1" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="161">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+		<f id="2" s="OS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="162">
+		<f id="0" s="-ON" g="257" ps="0" />
+		<f id="1" s="S-ON" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="163">
+		<f id="0" s="TCH" g="16777216" ps="2" />
+		<f id="1" s="TCHES" g="12582913" ps="2" />
+		<f id="2" s="UGHT" g="33554432" ps="2" />
+		<f id="3" s="UGHT" g="67108864" ps="2" />
+		<f id="4" s="TCHING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="164">
+		<f id="0" s="EX" g="257" ps="0" />
+		<f id="1" s="EXES" g="258" ps="0" />
+		<f id="2" s="ICES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="165">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="NED" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+		<f id="5" s="NING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="166">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+		<f id="2" s="X" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="167">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="PED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="PED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="PING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="168">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="KED" g="33554432" ps="2" />
+		<f id="3" s="KED" g="67108864" ps="2" />
+		<f id="4" s="KING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="169">
+		<f id="0" s="ETS" g="257" ps="0" />
+		<f id="1" s="TSI" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="170">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="ED" g="33554432" ps="2" />
+		<f id="4" s="DEN" g="67108864" ps="2" />
+		<f id="5" s="" g="67108864" ps="2" />
+		<f id="6" s="ED" g="67108864" ps="2" />
+		<f id="7" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="171">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="REN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="172">
+		<f id="0" s="OSE" g="16777216" ps="2" />
+		<f id="1" s="OSES" g="12582913" ps="2" />
+		<f id="2" s="SE" g="33554432" ps="2" />
+		<f id="3" s="SEN" g="67108864" ps="2" />
+		<f id="4" s="OSING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="173">
+		<f id="0" s="" g="1037" ps="0" />
+		<f id="1" s="ES" g="1038" ps="0" />
+	</paradigm>
+	<paradigm id="174">
+		<f id="0" s="OUSE" g="257" ps="0" />
+		<f id="1" s="ICE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="175">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="DER" g="262144" ps="1" />
+		<f id="2" s="DEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="176">
+		<f id="0" s="IS" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+		<f id="2" s="ISES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="177">
+		<f id="0" s="EAVE" g="16777216" ps="2" />
+		<f id="1" s="EAVES" g="12582913" ps="2" />
+		<f id="2" s="AVE" g="33554432" ps="2" />
+		<f id="3" s="EAVED" g="33554432" ps="2" />
+		<f id="4" s="EFT" g="33554432" ps="2" />
+		<f id="5" s="OVE" g="33554432" ps="2" />
+		<f id="6" s="EAVED" g="67108864" ps="2" />
+		<f id="7" s="EFT" g="67108864" ps="2" />
+		<f id="8" s="OVE" g="67108864" ps="2" />
+		<f id="9" s="OVEN" g="67108864" ps="2" />
+		<f id="10" s="EAVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="178">
+		<f id="0" s="EEK" g="16777216" ps="2" />
+		<f id="1" s="EEKS" g="12582913" ps="2" />
+		<f id="2" s="AUGHT" g="33554432" ps="2" />
+		<f id="3" s="EEKED" g="33554432" ps="2" />
+		<f id="4" s="AUGHT" g="67108864" ps="2" />
+		<f id="5" s="EEKED" g="67108864" ps="2" />
+		<f id="6" s="EEKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="179">
+		<f id="0" s="IMB" g="16777216" ps="2" />
+		<f id="1" s="IMBS" g="12582913" ps="2" />
+		<f id="2" s="IMBED" g="33554432" ps="2" />
+		<f id="3" s="OMB" g="33554432" ps="2" />
+		<f id="4" s="IMBED" g="67108864" ps="2" />
+		<f id="5" s="OMB" g="67108864" ps="2" />
+		<f id="6" s="IMBING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="180">
+		<f id="0" s="ING" g="16777216" ps="2" />
+		<f id="1" s="INGS" g="12582913" ps="2" />
+		<f id="2" s="UNG" g="33554432" ps="2" />
+		<f id="3" s="UNG" g="67108864" ps="2" />
+		<f id="4" s="INGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="181">
+		<f id="0" s="OTHE" g="16777216" ps="2" />
+		<f id="1" s="OTHES" g="12582913" ps="2" />
+		<f id="2" s="AD" g="33554432" ps="2" />
+		<f id="3" s="OTHED" g="33554432" ps="2" />
+		<f id="4" s="AD" g="67108864" ps="2" />
+		<f id="5" s="OTHED" g="67108864" ps="2" />
+		<f id="6" s="OTHING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="182">
+		<f id="0" s="F" g="257" ps="0" />
+		<f id="1" s="FS" g="258" ps="0" />
+		<f id="2" s="VES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="183">
+		<f id="0" s="X" g="257" ps="0" />
+		<f id="1" s="GES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="184">
+		<f id="0" s="OOT" g="257" ps="0" />
+		<f id="1" s="EET" g="258" ps="0" />
+		<f id="2" s="OOTS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="185">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="NES" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="186">
+		<f id="0" s="-IN" g="257" ps="0" />
+		<f id="1" s="S-IN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="187">
+		<f id="0" s="US" g="257" ps="0" />
+		<f id="1" s="ORA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="188">
+		<f id="0" s="AD" g="16777216" ps="2" />
+		<f id="1" s="ADS" g="12582913" ps="2" />
+		<f id="2" s="ADED" g="33554432" ps="2" />
+		<f id="3" s="D" g="33554432" ps="2" />
+		<f id="4" s="ADED" g="67108864" ps="2" />
+		<f id="5" s="D" g="67108864" ps="2" />
+		<f id="6" s="ADING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="189">
+		<f id="0" s="INK" g="16777216" ps="2" />
+		<f id="1" s="INKS" g="12582913" ps="2" />
+		<f id="2" s="UNK" g="33554432" ps="2" />
+		<f id="3" s="UNK" g="67108864" ps="2" />
+		<f id="4" s="INKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="190">
+		<f id="0" s="ORK" g="16777216" ps="2" />
+		<f id="1" s="ORKS" g="12582913" ps="2" />
+		<f id="2" s="ORKED" g="33554432" ps="2" />
+		<f id="3" s="ROUGHT" g="33554432" ps="2" />
+		<f id="4" s="ORKED" g="67108864" ps="2" />
+		<f id="5" s="ROUGHT" g="67108864" ps="2" />
+		<f id="6" s="ORKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="191">
+		<f id="0" s="COW" g="257" ps="0" />
+		<f id="1" s="COWS" g="258" ps="0" />
+		<f id="2" s="KINE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="192">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="'S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="193">
+		<f id="0" s="OW" g="16777216" ps="2" />
+		<f id="1" s="OWS" g="12582913" ps="2" />
+		<f id="2" s="EW" g="33554432" ps="2" />
+		<f id="3" s="OWED" g="33554432" ps="2" />
+		<f id="4" s="OWED" g="67108864" ps="2" />
+		<f id="5" s="OWN" g="67108864" ps="2" />
+		<f id="6" s="OWING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="194">
+		<f id="0" s="OOT" g="257" ps="0" />
+		<f id="1" s="EET" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="195">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="RA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="196">
+		<f id="0" s="KE" g="16777216" ps="2" />
+		<f id="1" s="KES" g="12582913" ps="2" />
+		<f id="2" s="DE" g="33554432" ps="2" />
+		<f id="3" s="DE" g="67108864" ps="2" />
+		<f id="4" s="KING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="197">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+		<f id="2" s="SES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="198">
+		<f id="0" s="ARE" g="16777216" ps="2" />
+		<f id="1" s="ARE" g="12582913" ps="2" />
+		<f id="2" s="ARES" g="12582913" ps="2" />
+		<f id="3" s="ARED" g="33554432" ps="2" />
+		<f id="4" s="URST" g="33554432" ps="2" />
+		<f id="5" s="ARED" g="67108864" ps="2" />
+		<f id="6" s="ARING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="199">
+		<f id="0" s="Y" g="16777216" ps="2" />
+		<f id="1" s="YS" g="12582913" ps="2" />
+		<f id="2" s="ID" g="33554432" ps="2" />
+		<f id="3" s="ID" g="67108864" ps="2" />
+		<f id="4" s="YING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="200">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="T" g="33554432" ps="2" />
+		<f id="3" s="T" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="201">
+		<f id="0" s="EEZE" g="16777216" ps="2" />
+		<f id="1" s="EEZES" g="12582913" ps="2" />
+		<f id="2" s="OZE" g="33554432" ps="2" />
+		<f id="3" s="OZEN" g="67108864" ps="2" />
+		<f id="4" s="EEZING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="202">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="SES" g="12582913" ps="2" />
+		<f id="3" s="SED" g="33554432" ps="2" />
+		<f id="4" s="SED" g="67108864" ps="2" />
+		<f id="5" s="SING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="203">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="MED" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="MED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+		<f id="7" s="MING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="204">
+		<f id="0" s="IN" g="16777216" ps="2" />
+		<f id="1" s="INS" g="12582913" ps="2" />
+		<f id="2" s="AN" g="33554432" ps="2" />
+		<f id="3" s="UN" g="33554432" ps="2" />
+		<f id="4" s="UN" g="67108864" ps="2" />
+		<f id="5" s="INNING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="205">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="CE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="206">
+		<f id="0" s="IG" g="16777216" ps="2" />
+		<f id="1" s="IGS" g="12582913" ps="2" />
+		<f id="2" s="IGGED" g="33554432" ps="2" />
+		<f id="3" s="UG" g="33554432" ps="2" />
+		<f id="4" s="IGGED" g="67108864" ps="2" />
+		<f id="5" s="UG" g="67108864" ps="2" />
+		<f id="6" s="IGGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="207">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="ED" g="33554432" ps="2" />
+		<f id="4" s="" g="67108864" ps="2" />
+		<f id="5" s="ED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="208">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="EN" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="209">
+		<f id="0" s="IVE" g="16777216" ps="2" />
+		<f id="1" s="IVES" g="12582913" ps="2" />
+		<f id="2" s="IVED" g="33554432" ps="2" />
+		<f id="3" s="OVE" g="33554432" ps="2" />
+		<f id="4" s="IVED" g="67108864" ps="2" />
+		<f id="5" s="IVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="210">
+		<f id="0" s="O" g="16777216" ps="2" />
+		<f id="1" s="OES" g="12582913" ps="2" />
+		<f id="2" s="ID" g="33554432" ps="2" />
+		<f id="3" s="ONE" g="67108864" ps="2" />
+		<f id="4" s="OING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="211">
+		<f id="0" s="" g="1033" ps="0" />
+		<f id="1" s="" g="1034" ps="0" />
+	</paradigm>
+	<paradigm id="212">
+		<f id="0" s="" g="1029" ps="0" />
+		<f id="1" s="" g="1030" ps="0" />
+	</paradigm>
+	<paradigm id="213">
+		<f id="0" s="EAR" g="16777216" ps="2" />
+		<f id="1" s="EARS" g="12582913" ps="2" />
+		<f id="2" s="ORE" g="33554432" ps="2" />
+		<f id="3" s="ORNE" g="67108864" ps="2" />
+		<f id="4" s="EARING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="214">
+		<f id="0" s="" g="0" ps="13" />
+	</paradigm>
+	<paradigm id="215">
+		<f id="0" s="AN" g="257" ps="0" />
+		<f id="1" s="ANS" g="258" ps="0" />
+		<f id="2" s="EN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="216">
+		<f id="0" s="AW" g="16777216" ps="2" />
+		<f id="1" s="AWS" g="12582913" ps="2" />
+		<f id="2" s="EW" g="33554432" ps="2" />
+		<f id="3" s="AWN" g="67108864" ps="2" />
+		<f id="4" s="AWING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="217">
+		<f id="0" s="INK" g="16777216" ps="2" />
+		<f id="1" s="INKS" g="12582913" ps="2" />
+		<f id="2" s="ANK" g="33554432" ps="2" />
+		<f id="3" s="UNK" g="67108864" ps="2" />
+		<f id="4" s="INKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="218">
+		<f id="0" s="IVE" g="16777216" ps="2" />
+		<f id="1" s="IVES" g="12582913" ps="2" />
+		<f id="2" s="OVE" g="33554432" ps="2" />
+		<f id="3" s="IVEN" g="67108864" ps="2" />
+		<f id="4" s="IVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="219">
+		<f id="0" s="" g="1027" ps="0" />
+	</paradigm>
+	<paradigm id="220">
+		<f id="0" s="L" g="16777216" ps="2" />
+		<f id="1" s="LS" g="12582913" ps="2" />
+		<f id="2" s="LED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="LED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="LING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="221">
+		<f id="0" s="EAK" g="16777216" ps="2" />
+		<f id="1" s="EAKS" g="12582913" ps="2" />
+		<f id="2" s="OKE" g="33554432" ps="2" />
+		<f id="3" s="OKE" g="67108864" ps="2" />
+		<f id="4" s="OKEN" g="67108864" ps="2" />
+		<f id="5" s="EAKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="222">
+		<f id="0" s="Y" g="0" ps="11" />
+		<f id="1" s="IER" g="262144" ps="11" />
+		<f id="2" s="IEST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="223">
+		<f id="0" s="Y" g="257" ps="0" />
+		<f id="1" s="CE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="224">
+		<f id="0" s="EAT" g="16777216" ps="2" />
+		<f id="1" s="EATS" g="12582913" ps="2" />
+		<f id="2" s="ATE" g="33554432" ps="2" />
+		<f id="3" s="EATEN" g="67108864" ps="2" />
+		<f id="4" s="EATING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="225">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="N" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="226">
+		<f id="0" s="OS" g="257" ps="0" />
+		<f id="1" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="227">
+		<f id="0" s="OOSE" g="257" ps="0" />
+		<f id="1" s="EESE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="228">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="SED" g="33554432" ps="2" />
+		<f id="3" s="SED" g="67108864" ps="2" />
+		<f id="4" s="SING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="229">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="TIA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="230">
+		<f id="0" s="F" g="257" ps="0" />
+		<f id="1" s="VEN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="231">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="AE" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="232">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="233">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="EING" g="134217728" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="234">
+		<f id="0" s="AR" g="0" ps="1" />
+		<f id="1" s="ARTHER" g="262144" ps="1" />
+		<f id="2" s="URTHER" g="262144" ps="1" />
+		<f id="3" s="ARTHEST" g="524288" ps="1" />
+		<f id="4" s="URTHEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="235">
+		<f id="0" s="AR" g="0" ps="11" />
+		<f id="1" s="ARTHER" g="262144" ps="11" />
+		<f id="2" s="URTHER" g="262144" ps="11" />
+		<f id="3" s="ARTHEST" g="524288" ps="11" />
+		<f id="4" s="URTHEST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="236">
+		<f id="0" s="" g="0" ps="11" />
+		<f id="1" s="ER" g="262144" ps="11" />
+		<f id="2" s="EST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="237">
+		<f id="0" s="I" g="257" ps="0" />
+		<f id="1" s="YIN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="238">
+		<f id="0" s="EE" g="257" ps="0" />
+		<f id="1" s="IN" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="239">
+		<f id="0" s="EL" g="16777216" ps="2" />
+		<f id="1" s="ELS" g="12582913" ps="2" />
+		<f id="2" s="LT" g="33554432" ps="2" />
+		<f id="3" s="LT" g="67108864" ps="2" />
+		<f id="4" s="ELING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="240">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="EEN" g="258" ps="0" />
+		<f id="2" s="IN" g="258" ps="0" />
+		<f id="3" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="241">
+		<f id="0" s="UR" g="257" ps="0" />
+		<f id="1" s="ORA" g="258" ps="0" />
+		<f id="2" s="URS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="242">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="EN" g="258" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="243">
+		<f id="0" s="IGHT" g="16777216" ps="2" />
+		<f id="1" s="IGHTS" g="12582913" ps="2" />
+		<f id="2" s="OUGHT" g="33554432" ps="2" />
+		<f id="3" s="OUGHT" g="67108864" ps="2" />
+		<f id="4" s="IGHTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="244">
+		<f id="0" s="FF" g="257" ps="0" />
+		<f id="1" s="FFS" g="258" ps="0" />
+		<f id="2" s="VES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="245">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="D" g="67108864" ps="2" />
+		<f id="4" s="EING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="246">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="PER" g="262144" ps="1" />
+		<f id="2" s="PEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="247">
+		<f id="0" s="Y" g="16777216" ps="2" />
+		<f id="1" s="IES" g="12582913" ps="2" />
+		<f id="2" s="EW" g="33554432" ps="2" />
+		<f id="3" s="OWN" g="67108864" ps="2" />
+		<f id="4" s="YING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="248">
+		<f id="0" s="ES" g="257" ps="0" />
+		<f id="1" s="ITES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="249">
+		<f id="0" s="ID" g="16777216" ps="2" />
+		<f id="1" s="IDS" g="12582913" ps="2" />
+		<f id="2" s="ADE" g="33554432" ps="2" />
+		<f id="3" s="AD" g="33554432" ps="2" />
+		<f id="4" s="ID" g="67108864" ps="2" />
+		<f id="5" s="IDDEN" g="67108864" ps="2" />
+		<f id="6" s="IDDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="250">
+		<f id="0" s="GO" g="16777216" ps="2" />
+		<f id="1" s="GOES" g="12582913" ps="2" />
+		<f id="2" s="WENT" g="33554432" ps="2" />
+		<f id="3" s="GONE" g="67108864" ps="2" />
+		<f id="4" s="GOING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="251">
+		<f id="0" s="UN" g="16777216" ps="2" />
+		<f id="1" s="UNS" g="12582913" ps="2" />
+		<f id="2" s="AN" g="33554432" ps="2" />
+		<f id="3" s="UN" g="67108864" ps="2" />
+		<f id="4" s="UNNING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="252">
+		<f id="0" s="EE" g="16777216" ps="2" />
+		<f id="1" s="EES" g="12582913" ps="2" />
+		<f id="2" s="AW" g="33554432" ps="2" />
+		<f id="3" s="EEN" g="67108864" ps="2" />
+		<f id="4" s="EEING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="253">
+		<f id="0" s="ELL" g="16777216" ps="2" />
+		<f id="1" s="ELLS" g="12582913" ps="2" />
+		<f id="2" s="OLD" g="33554432" ps="2" />
+		<f id="3" s="OLD" g="67108864" ps="2" />
+		<f id="4" s="ELLING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="254">
+		<f id="0" s="ET" g="16777216" ps="2" />
+		<f id="1" s="ETS" g="12582913" ps="2" />
+		<f id="2" s="OT" g="33554432" ps="2" />
+		<f id="3" s="OTTEN" g="67108864" ps="2" />
+		<f id="4" s="ETTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="255">
+		<f id="0" s="IVE" g="16777216" ps="2" />
+		<f id="1" s="IVES" g="12582913" ps="2" />
+		<f id="2" s="AVE" g="33554432" ps="2" />
+		<f id="3" s="IVEN" g="67108864" ps="2" />
+		<f id="4" s="IVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="256">
+		<f id="0" s="EAR" g="16777216" ps="2" />
+		<f id="1" s="EARS" g="12582913" ps="2" />
+		<f id="2" s="ORE" g="33554432" ps="2" />
+		<f id="3" s="ORN" g="67108864" ps="2" />
+		<f id="4" s="EARING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="257">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ZED" g="33554432" ps="2" />
+		<f id="3" s="ZED" g="67108864" ps="2" />
+		<f id="4" s="ZING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="258">
+		<f id="0" s="US" g="131329" ps="0" />
+		<f id="1" s="I" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="259">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="AS" g="258" ps="0" />
+		<f id="2" s="OES" g="258" ps="0" />
+		<f id="3" s="OS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="260">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="TES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="261">
+		<f id="0" s="US" g="257" ps="0" />
+		<f id="1" s="ERA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="262">
+		<f id="0" s="IN" g="16777216" ps="2" />
+		<f id="1" s="INS" g="12582913" ps="2" />
+		<f id="2" s="AN" g="33554432" ps="2" />
+		<f id="3" s="UN" g="67108864" ps="2" />
+		<f id="4" s="UNNEN" g="67108864" ps="2" />
+		<f id="5" s="INNING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="263">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="EST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="264">
+		<f id="0" s="GOOD" g="0" ps="1" />
+		<f id="1" s="BETTER" g="262144" ps="1" />
+		<f id="2" s="BEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="265">
+		<f id="0" s="" g="131329" ps="0" />
+		<f id="1" s="ES" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="266">
+		<f id="0" s="" g="147713" ps="0" />
+	</paradigm>
+	<paradigm id="267">
+		<f id="0" s="IDE" g="16777216" ps="2" />
+		<f id="1" s="IDES" g="12582913" ps="2" />
+		<f id="2" s="ODE" g="33554432" ps="2" />
+		<f id="3" s="IDDEN" g="67108864" ps="2" />
+		<f id="4" s="IDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="268">
+		<f id="0" s="ING" g="16777216" ps="2" />
+		<f id="1" s="INGS" g="12582913" ps="2" />
+		<f id="2" s="INGED" g="33554432" ps="2" />
+		<f id="3" s="UNG" g="33554432" ps="2" />
+		<f id="4" s="INGED" g="67108864" ps="2" />
+		<f id="5" s="UNG" g="67108864" ps="2" />
+		<f id="6" s="INGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="269">
+		<f id="0" s="EAVE" g="16777216" ps="2" />
+		<f id="1" s="EAVES" g="12582913" ps="2" />
+		<f id="2" s="OVE" g="33554432" ps="2" />
+		<f id="3" s="OVEN" g="67108864" ps="2" />
+		<f id="4" s="EAVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="270">
+		<f id="0" s="ANG" g="16777216" ps="2" />
+		<f id="1" s="ANGS" g="12582913" ps="2" />
+		<f id="2" s="ANGED" g="33554432" ps="2" />
+		<f id="3" s="UNG" g="33554432" ps="2" />
+		<f id="4" s="ANGED" g="67108864" ps="2" />
+		<f id="5" s="UNG" g="67108864" ps="2" />
+		<f id="6" s="ANGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="271">
+		<f id="0" s="VE" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="D" g="67108864" ps="2" />
+		<f id="4" s="VING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="272">
+		<f id="0" s="E" g="4196417" ps="12" />
+		<f id="1" s="IM" g="4196481" ps="12" />
+	</paradigm>
+	<paradigm id="273">
+		<f id="0" s="EAVE" g="16777216" ps="2" />
+		<f id="1" s="EAVES" g="12582913" ps="2" />
+		<f id="2" s="EAVED" g="33554432" ps="2" />
+		<f id="3" s="OVE" g="33554432" ps="2" />
+		<f id="4" s="EAVED" g="67108864" ps="2" />
+		<f id="5" s="OVE" g="67108864" ps="2" />
+		<f id="6" s="EAVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="274">
+		<f id="0" s="" g="4096" ps="16" />
+		<f id="1" s="S" g="12288" ps="16" />
+	</paradigm>
+	<paradigm id="275">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="PED" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="PED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+		<f id="7" s="PING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="276">
+		<f id="0" s="" g="32769" ps="12" />
+	</paradigm>
+	<paradigm id="277">
+		<f id="0" s="IE" g="16777216" ps="2" />
+		<f id="1" s="IES" g="12582913" ps="2" />
+		<f id="2" s="IED" g="33554432" ps="2" />
+		<f id="3" s="IED" g="67108864" ps="2" />
+		<f id="4" s="IEING" g="134217728" ps="2" />
+		<f id="5" s="YING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="278">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="PS" g="257" ps="0" />
+		<f id="2" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="279">
+		<f id="0" s="" g="4096" ps="16" />
+		<f id="1" s="" g="12288" ps="16" />
+	</paradigm>
+	<paradigm id="280">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="281">
+		<f id="0" s="OLD" g="16777216" ps="2" />
+		<f id="1" s="OLDS" g="12582913" ps="2" />
+		<f id="2" s="ELD" g="33554432" ps="2" />
+		<f id="3" s="ELD" g="67108864" ps="2" />
+		<f id="4" s="OLDEN" g="67108864" ps="2" />
+		<f id="5" s="OLDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="282">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="AE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="283">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="INES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="284">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="DDEN" g="67108864" ps="2" />
+		<f id="4" s="D" g="67108864" ps="2" />
+		<f id="5" s="EING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="285">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="E" g="33554432" ps="2" />
+		<f id="3" s="EN" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="286">
+		<f id="0" s="IKE" g="16777216" ps="2" />
+		<f id="1" s="IKES" g="12582913" ps="2" />
+		<f id="2" s="UCK" g="33554432" ps="2" />
+		<f id="3" s="ICKEN" g="67108864" ps="2" />
+		<f id="4" s="UCK" g="67108864" ps="2" />
+		<f id="5" s="IKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="287">
+		<f id="0" s="N" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="288">
+		<f id="0" s="I" g="1050689" ps="12" />
+		<f id="1" s="ME" g="1050753" ps="12" />
+	</paradigm>
+	<paradigm id="289">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="INES" g="258" ps="0" />
+		<f id="2" s="OES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="290">
+		<f id="0" s="" g="1033" ps="0" />
+		<f id="1" s="ZES" g="1034" ps="0" />
+	</paradigm>
+	<paradigm id="291">
+		<f id="0" s="EAVE" g="16777216" ps="2" />
+		<f id="1" s="EAVES" g="12582913" ps="2" />
+		<f id="2" s="OVE" g="33554432" ps="2" />
+		<f id="3" s="EAVED" g="67108864" ps="2" />
+		<f id="4" s="OVEN" g="67108864" ps="2" />
+		<f id="5" s="EAVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="292">
+		<f id="0" s="" g="4196417" ps="12" />
+		<f id="1" s="" g="4196481" ps="12" />
+	</paradigm>
+	<paradigm id="293">
+		<f id="0" s="ER" g="257" ps="0" />
+		<f id="1" s="ERSS" g="258" ps="0" />
+		<f id="2" s="INERA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="294">
+		<f id="0" s="Y" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+		<f id="2" s="IES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="295">
+		<f id="0" s="EE" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="296">
+		<f id="0" s="I" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="297">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="IM" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="298">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="NED" g="33554432" ps="2" />
+		<f id="3" s="T" g="33554432" ps="2" />
+		<f id="4" s="NED" g="67108864" ps="2" />
+		<f id="5" s="T" g="67108864" ps="2" />
+		<f id="6" s="NING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="299">
+		<f id="0" s="EL" g="16777216" ps="2" />
+		<f id="1" s="ELS" g="12582913" ps="2" />
+		<f id="2" s="ELED" g="33554432" ps="2" />
+		<f id="3" s="LT" g="33554432" ps="2" />
+		<f id="4" s="ELED" g="67108864" ps="2" />
+		<f id="5" s="LT" g="67108864" ps="2" />
+		<f id="6" s="ELING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="300">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="'S" g="12582913" ps="2" />
+		<f id="2" s="'D" g="33554432" ps="2" />
+		<f id="3" s="'D" g="67108864" ps="2" />
+		<f id="4" s="'ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="301">
+		<f id="0" s="A" g="257" ps="0" />
+		<f id="1" s="UR" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="302">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="R" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="303">
+		<f id="0" s="AND" g="257" ps="0" />
+		<f id="1" s="ONDER" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="304">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="S" g="12582913" ps="2" />
+		<f id="3" s="ED" g="33554432" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="305">
+		<f id="0" s="TE" g="0" ps="1" />
+		<f id="1" s="TER" g="262144" ps="1" />
+		<f id="2" s="TTER" g="262144" ps="1" />
+		<f id="3" s="ST" g="524288" ps="1" />
+		<f id="4" s="TEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="306">
+		<f id="0" s="" g="0" ps="11" />
+		<f id="1" s="R" g="262144" ps="11" />
+		<f id="2" s="ST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="307">
+		<f id="0" s="AD" g="16777216" ps="2" />
+		<f id="1" s="ADS" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="D" g="67108864" ps="2" />
+		<f id="4" s="ADING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="308">
+		<f id="0" s="AVE" g="16777216" ps="2" />
+		<f id="1" s="AVES" g="12582913" ps="2" />
+		<f id="2" s="FT" g="33554432" ps="2" />
+		<f id="3" s="FT" g="67108864" ps="2" />
+		<f id="4" s="AVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="309">
+		<f id="0" s="U" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="310">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="ZER" g="262144" ps="1" />
+		<f id="2" s="ZEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="311">
+		<f id="0" s="IE" g="16777216" ps="2" />
+		<f id="1" s="IES" g="12582913" ps="2" />
+		<f id="2" s="AY" g="33554432" ps="2" />
+		<f id="3" s="AIN" g="67108864" ps="2" />
+		<f id="4" s="YING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="312">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="ER" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="313">
+		<f id="0" s="LIKUTA" g="257" ps="0" />
+		<f id="1" s="MAKUTA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="314">
+		<f id="0" s="LILANGENI" g="257" ps="0" />
+		<f id="1" s="EMALANGENI" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="315">
+		<f id="0" s="ITTLE" g="0" ps="1" />
+		<f id="1" s="ESS" g="262144" ps="1" />
+		<f id="2" s="ESSER" g="262144" ps="1" />
+		<f id="3" s="EAST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="316">
+		<f id="0" s="E" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="T" g="33554432" ps="2" />
+		<f id="3" s="T" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="317">
+		<f id="0" s="ADAM" g="257" ps="0" />
+		<f id="1" s="ADAMS" g="258" ps="0" />
+		<f id="2" s="ESDAMES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="318">
+		<f id="0" s="ADAME" g="257" ps="0" />
+		<f id="1" s="ESDAMES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="319">
+		<f id="0" s="ADEMOISELLE" g="257" ps="0" />
+		<f id="1" s="ESDEMOISELLES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="320">
+		<f id="0" s="ANY" g="0" ps="5" />
+		<f id="1" s="ORE" g="262144" ps="5" />
+		<f id="2" s="OST" g="524288" ps="5" />
+	</paradigm>
+	<paradigm id="321">
+		<f id="0" s="IN" g="257" ps="0" />
+		<f id="1" s="INS" g="258" ps="0" />
+		<f id="2" s="TINS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="322">
+		<f id="0" s="AY" g="16777216" ps="4" />
+		<f id="1" s="IGHT" g="33554432" ps="4" />
+	</paradigm>
+	<paradigm id="323">
+		<f id="0" s="ET" g="16777216" ps="2" />
+		<f id="1" s="ETS" g="12582913" ps="2" />
+		<f id="2" s="T" g="33554432" ps="2" />
+		<f id="3" s="T" g="67108864" ps="2" />
+		<f id="4" s="ETING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="324">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="ST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="325">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="MOST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="326">
+		<f id="0" s="Y" g="257" ps="0" />
+		<f id="1" s="Y" g="258" ps="0" />
+		<f id="2" s="IES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="327">
+		<f id="0" s="AND" g="16777216" ps="2" />
+		<f id="1" s="ANDS" g="12582913" ps="2" />
+		<f id="2" s="OOD" g="33554432" ps="2" />
+		<f id="3" s="OOD" g="67108864" ps="2" />
+		<f id="4" s="ANDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="328">
+		<f id="0" s="ONSEIGNEUR" g="257" ps="0" />
+		<f id="1" s="ESSEIGNEURS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="329">
+		<f id="0" s="ONSIEUR" g="257" ps="0" />
+		<f id="1" s="ESSIEURS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="330">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="331">
+		<f id="0" s="R" g="257" ps="0" />
+		<f id="1" s="ESSRS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="332">
+		<f id="0" s="UCH" g="0" ps="1" />
+		<f id="1" s="ORE" g="262144" ps="1" />
+		<f id="2" s="OST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="333">
+		<f id="0" s="UCH" g="0" ps="11" />
+		<f id="1" s="ORE" g="262144" ps="11" />
+		<f id="2" s="OST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="334">
+		<f id="0" s="A" g="257" ps="0" />
+		<f id="1" s="IDAE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="335">
+		<f id="0" s="" g="16777216" ps="4" />
+	</paradigm>
+	<paradigm id="336">
+		<f id="0" s="Y" g="4096" ps="16" />
+		<f id="1" s="INE" g="12288" ps="16" />
+	</paradigm>
+	<paradigm id="337">
+		<f id="0" s="" g="0" ps="1" />
+		<f id="1" s="RER" g="262144" ps="1" />
+		<f id="2" s="REST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="338">
+		<f id="0" s="" g="0" ps="9" />
+	</paradigm>
+	<paradigm id="339">
+		<f id="0" s="EN" g="257" ps="0" />
+		<f id="1" s="INA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="340">
+		<f id="0" s="-ENS" g="257" ps="0" />
+		<f id="1" s="ENTIA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="341">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="SED" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+		<f id="5" s="SING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="342">
+		<f id="0" s="UT" g="257" ps="0" />
+		<f id="1" s="ITA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="343">
+		<f id="0" s="US" g="257" ps="0" />
+		<f id="1" s="ODES" g="258" ps="0" />
+		<f id="2" s="I" g="258" ps="0" />
+		<f id="3" s="USES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="344">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="'D" g="33554432" ps="2" />
+		<f id="3" s="ED" g="33554432" ps="2" />
+		<f id="4" s="'D" g="67108864" ps="2" />
+		<f id="5" s="ED" g="67108864" ps="2" />
+		<f id="6" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="345">
+		<f id="0" s="OLD" g="0" ps="1" />
+		<f id="1" s="ELDER" g="262144" ps="1" />
+		<f id="2" s="OLDER" g="262144" ps="1" />
+		<f id="3" s="ELDEST" g="524288" ps="1" />
+		<f id="4" s="OLDEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="346">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="AE" g="258" ps="0" />
+		<f id="2" s="ES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="347">
+		<f id="0" s="ER" g="257" ps="0" />
+		<f id="1" s="ERS" g="258" ps="0" />
+		<f id="2" s="RI" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="348">
+		<f id="0" s="" g="65537" ps="16" />
+		<f id="1" s="S" g="65538" ps="16" />
+	</paradigm>
+	<paradigm id="349">
+		<f id="0" s="Y" g="0" ps="1" />
+		<f id="1" s="IEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="350">
+		<f id="0" s="US" g="257" ps="0" />
+		<f id="1" s="ERA" g="258" ps="0" />
+		<f id="2" s="USES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="351">
+		<f id="0" s="O" g="257" ps="0" />
+		<f id="1" s="INES" g="258" ps="0" />
+		<f id="2" s="OS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="352">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="AR" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="353">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="SA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="354">
+		<f id="0" s="F" g="32769" ps="12" />
+		<f id="1" s="VES" g="32770" ps="12" />
+	</paradigm>
+	<paradigm id="355">
+		<f id="0" s="ID" g="16777216" ps="2" />
+		<f id="1" s="IDS" g="12582913" ps="2" />
+		<f id="2" s="ID" g="33554432" ps="2" />
+		<f id="3" s="ADE" g="33554432" ps="2" />
+		<f id="4" s="ID" g="67108864" ps="2" />
+		<f id="5" s="IDDEN" g="67108864" ps="2" />
+		<f id="6" s="IDDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="356">
+		<f id="0" s="ING" g="16777216" ps="2" />
+		<f id="1" s="INGS" g="12582913" ps="2" />
+		<f id="2" s="ANG" g="33554432" ps="2" />
+		<f id="3" s="UNG" g="67108864" ps="2" />
+		<f id="4" s="INGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="357">
+		<f id="0" s="INE" g="16777216" ps="2" />
+		<f id="1" s="INES" g="12582913" ps="2" />
+		<f id="2" s="ONE" g="33554432" ps="2" />
+		<f id="3" s="ONE" g="67108864" ps="2" />
+		<f id="4" s="INING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="358">
+		<f id="0" s="OT" g="16777216" ps="2" />
+		<f id="1" s="OTS" g="12582913" ps="2" />
+		<f id="2" s="T" g="33554432" ps="2" />
+		<f id="3" s="T" g="67108864" ps="2" />
+		<f id="4" s="OTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="359">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="N" g="67108864" ps="2" />
+		<f id="4" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="360">
+		<f id="0" s="ANG" g="16777216" ps="2" />
+		<f id="1" s="ANGS" g="12582913" ps="2" />
+		<f id="2" s="UNG" g="33554432" ps="2" />
+		<f id="3" s="UNG" g="67108864" ps="2" />
+		<f id="4" s="ANGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="361">
+		<f id="0" s="ED" g="16777216" ps="2" />
+		<f id="1" s="EDS" g="12582913" ps="2" />
+		<f id="2" s="D" g="33554432" ps="2" />
+		<f id="3" s="EDED" g="33554432" ps="2" />
+		<f id="4" s="D" g="67108864" ps="2" />
+		<f id="5" s="EDED" g="67108864" ps="2" />
+		<f id="6" s="EDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="362">
+		<f id="0" s="ELL" g="16777216" ps="2" />
+		<f id="1" s="ELLS" g="12582913" ps="2" />
+		<f id="2" s="ELLED" g="33554432" ps="2" />
+		<f id="3" s="OLLEN" g="67108864" ps="2" />
+		<f id="4" s="ELLING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="363">
+		<f id="0" s="BY" g="257" ps="0" />
+		<f id="1" s="SBY" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="364">
+		<f id="0" s="ERFAMILIAS" g="257" ps="0" />
+		<f id="1" s="RESFAMILIAS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="365">
+		<f id="0" s="EN" g="257" ps="0" />
+		<f id="1" s="ENS" g="258" ps="0" />
+		<f id="2" s="INES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="366">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="ION" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="367">
+		<f id="0" s="RSON" g="257" ps="0" />
+		<f id="1" s="OPLE" g="258" ps="0" />
+		<f id="2" s="RSONS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="368">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="369">
+		<f id="0" s="EACH" g="16777216" ps="2" />
+		<f id="1" s="EACHES" g="12582913" ps="2" />
+		<f id="2" s="AUGHT" g="33554432" ps="2" />
+		<f id="3" s="AUGHT" g="67108864" ps="2" />
+		<f id="4" s="EACHING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="370">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="A" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="371">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="K" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="372">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="IA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="373">
+		<f id="0" s="AL" g="257" ps="0" />
+		<f id="1" s="ALS" g="258" ps="0" />
+		<f id="2" s="IS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="374">
+		<f id="0" s="EEVE" g="16777216" ps="2" />
+		<f id="1" s="EEVES" g="12582913" ps="2" />
+		<f id="2" s="EEVED" g="33554432" ps="2" />
+		<f id="3" s="OVE" g="33554432" ps="2" />
+		<f id="4" s="EEVED" g="67108864" ps="2" />
+		<f id="5" s="OVE" g="67108864" ps="2" />
+		<f id="6" s="EEVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="375">
+		<f id="0" s="E" g="257" ps="0" />
+		<f id="1" s="IA" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="376">
+		<f id="0" s="EAD" g="16777216" ps="2" />
+		<f id="1" s="EADS" g="12582913" ps="2" />
+		<f id="2" s="OD" g="33554432" ps="2" />
+		<f id="3" s="ODDEN" g="67108864" ps="2" />
+		<f id="4" s="EADING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="377">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="VED" g="33554432" ps="2" />
+		<f id="3" s="VED" g="67108864" ps="2" />
+		<f id="4" s="VING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="378">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="DED" g="33554432" ps="2" />
+		<f id="4" s="" g="67108864" ps="2" />
+		<f id="5" s="DED" g="67108864" ps="2" />
+		<f id="6" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="379">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="FED" g="33554432" ps="2" />
+		<f id="3" s="FED" g="67108864" ps="2" />
+		<f id="4" s="FING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="380">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+		<f id="2" s="I" g="258" ps="0" />
+		<f id="3" s="S" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="381">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="" g="258" ps="0" />
+		<f id="2" s="E" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="382">
+		<f id="0" s="I" g="257" ps="0" />
+		<f id="1" s="ES" g="258" ps="0" />
+		<f id="2" s="IS" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="383">
+		<f id="0" s="ER" g="257" ps="0" />
+		<f id="1" s="RI" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="384">
+		<f id="0" s="EEK" g="16777216" ps="2" />
+		<f id="1" s="EEKS" g="12582913" ps="2" />
+		<f id="2" s="OUGHT" g="33554432" ps="2" />
+		<f id="3" s="OUGHT" g="67108864" ps="2" />
+		<f id="4" s="EEKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="385">
+		<f id="0" s="ALL" g="16777216" ps="4" />
+		<f id="1" s="OULD" g="33554432" ps="4" />
+	</paradigm>
+	<paradigm id="386">
+		<f id="0" s="SHE" g="4196417" ps="12" />
+		<f id="1" s="HER" g="4196481" ps="12" />
+	</paradigm>
+	<paradigm id="387">
+		<f id="0" s="EAR" g="16777216" ps="2" />
+		<f id="1" s="EARS" g="12582913" ps="2" />
+		<f id="2" s="EARED" g="33554432" ps="2" />
+		<f id="3" s="EARED" g="67108864" ps="2" />
+		<f id="4" s="ORN" g="67108864" ps="2" />
+		<f id="5" s="EARING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="388">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="389">
+		<f id="0" s="INE" g="16777216" ps="2" />
+		<f id="1" s="INES" g="12582913" ps="2" />
+		<f id="2" s="INED" g="33554432" ps="2" />
+		<f id="3" s="ONE" g="33554432" ps="2" />
+		<f id="4" s="INED" g="67108864" ps="2" />
+		<f id="5" s="ONE" g="67108864" ps="2" />
+		<f id="6" s="INING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="390">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="DED" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="DED" g="67108864" ps="2" />
+		<f id="5" s="DING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="391">
+		<f id="0" s="INK" g="16777216" ps="2" />
+		<f id="1" s="INKS" g="12582913" ps="2" />
+		<f id="2" s="ANK" g="33554432" ps="2" />
+		<f id="3" s="UNK" g="33554432" ps="2" />
+		<f id="4" s="UNK" g="67108864" ps="2" />
+		<f id="5" s="UNKEN" g="67108864" ps="2" />
+		<f id="6" s="INKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="392">
+		<f id="0" s="IVE" g="16777216" ps="2" />
+		<f id="1" s="IVES" g="12582913" ps="2" />
+		<f id="2" s="IVED" g="33554432" ps="2" />
+		<f id="3" s="OVE" g="33554432" ps="2" />
+		<f id="4" s="IVED" g="67108864" ps="2" />
+		<f id="5" s="IVEN" g="67108864" ps="2" />
+		<f id="6" s="IVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="393">
+		<f id="0" s="ING" g="16777216" ps="2" />
+		<f id="1" s="INGS" g="12582913" ps="2" />
+		<f id="2" s="ANG" g="33554432" ps="2" />
+		<f id="3" s="UNG" g="33554432" ps="2" />
+		<f id="4" s="UNG" g="67108864" ps="2" />
+		<f id="5" s="INGING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="394">
+		<f id="0" s="INK" g="16777216" ps="2" />
+		<f id="1" s="INKS" g="12582913" ps="2" />
+		<f id="2" s="ANK" g="33554432" ps="2" />
+		<f id="3" s="UNK" g="33554432" ps="2" />
+		<f id="4" s="UNK" g="67108864" ps="2" />
+		<f id="5" s="INKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="395">
+		<f id="0" s="AY" g="16777216" ps="2" />
+		<f id="1" s="AYS" g="12582913" ps="2" />
+		<f id="2" s="EW" g="33554432" ps="2" />
+		<f id="3" s="AIN" g="67108864" ps="2" />
+		<f id="4" s="AYING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="396">
+		<f id="0" s="INK" g="16777216" ps="2" />
+		<f id="1" s="INKS" g="12582913" ps="2" />
+		<f id="2" s="INKED" g="33554432" ps="2" />
+		<f id="3" s="UNK" g="33554432" ps="2" />
+		<f id="4" s="INKED" g="67108864" ps="2" />
+		<f id="5" s="UNK" g="67108864" ps="2" />
+		<f id="6" s="INKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="397">
+		<f id="0" s="ITE" g="16777216" ps="2" />
+		<f id="1" s="ITES" g="12582913" ps="2" />
+		<f id="2" s="IT" g="33554432" ps="2" />
+		<f id="3" s="OTE" g="33554432" ps="2" />
+		<f id="4" s="IT" g="67108864" ps="2" />
+		<f id="5" s="ITTEN" g="67108864" ps="2" />
+		<f id="6" s="ITING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="398">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="TED" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="TED" g="67108864" ps="2" />
+		<f id="5" s="TING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="399">
+		<f id="0" s="" g="257" ps="0" />
+		<f id="1" s="NES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="400">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="'D" g="33554432" ps="2" />
+		<f id="3" s="CED" g="33554432" ps="2" />
+		<f id="4" s="KED" g="33554432" ps="2" />
+		<f id="5" s="'D" g="67108864" ps="2" />
+		<f id="6" s="CED" g="67108864" ps="2" />
+		<f id="7" s="KED" g="67108864" ps="2" />
+		<f id="8" s="'ING" g="134217728" ps="2" />
+		<f id="9" s="CING" g="134217728" ps="2" />
+		<f id="10" s="KING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="401">
+		<f id="0" s="X" g="257" ps="0" />
+		<f id="1" s="GES" g="258" ps="0" />
+		<f id="2" s="XES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="402">
+		<f id="0" s="IT" g="16777216" ps="2" />
+		<f id="1" s="ITS" g="12582913" ps="2" />
+		<f id="2" s="IT" g="33554432" ps="2" />
+		<f id="3" s="AT" g="33554432" ps="2" />
+		<f id="4" s="IT" g="67108864" ps="2" />
+		<f id="5" s="AT" g="67108864" ps="2" />
+		<f id="6" s="ITTING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="403">
+		<f id="0" s="RSON" g="257" ps="0" />
+		<f id="1" s="OPLE" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="404">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="S" g="258" ps="0" />
+		<f id="2" s="DES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="405">
+		<f id="0" s="" g="147713" ps="0" />
+		<f id="1" s="ES" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="406">
+		<f id="0" s="ETS" g="257" ps="0" />
+		<f id="1" s="TSY" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="407">
+		<f id="0" s="AVE" g="16777216" ps="2" />
+		<f id="1" s="AVES" g="12582913" ps="2" />
+		<f id="2" s="AVED" g="33554432" ps="2" />
+		<f id="3" s="OVE" g="33554432" ps="2" />
+		<f id="4" s="AVED" g="67108864" ps="2" />
+		<f id="5" s="OVE" g="67108864" ps="2" />
+		<f id="6" s="AVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="408">
+		<f id="0" s="EAL" g="16777216" ps="2" />
+		<f id="1" s="EALS" g="12582913" ps="2" />
+		<f id="2" s="OLE" g="33554432" ps="2" />
+		<f id="3" s="OLEN" g="67108864" ps="2" />
+		<f id="4" s="EALING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="409">
+		<f id="0" s="ICK" g="16777216" ps="2" />
+		<f id="1" s="ICKS" g="12582913" ps="2" />
+		<f id="2" s="UCK" g="33554432" ps="2" />
+		<f id="3" s="UCK" g="67108864" ps="2" />
+		<f id="4" s="ICKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="410">
+		<f id="0" s="IVE" g="16777216" ps="2" />
+		<f id="1" s="IVES" g="12582913" ps="2" />
+		<f id="2" s="OVE" g="33554432" ps="2" />
+		<f id="3" s="IVED" g="67108864" ps="2" />
+		<f id="4" s="IVEN" g="67108864" ps="2" />
+		<f id="5" s="IVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="411">
+		<f id="0" s="ELL" g="16777216" ps="2" />
+		<f id="1" s="ELLS" g="12582913" ps="2" />
+		<f id="2" s="ELLED" g="33554432" ps="2" />
+		<f id="3" s="ELLED" g="67108864" ps="2" />
+		<f id="4" s="OLLEN" g="67108864" ps="2" />
+		<f id="5" s="ELLING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="412">
+		<f id="0" s="IM" g="16777216" ps="2" />
+		<f id="1" s="IMS" g="12582913" ps="2" />
+		<f id="2" s="UM" g="33554432" ps="2" />
+		<f id="3" s="AM" g="67108864" ps="2" />
+		<f id="4" s="IMING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="413">
+		<f id="0" s="AT" g="65537" ps="16" />
+		<f id="1" s="OSE" g="65538" ps="16" />
+	</paradigm>
+	<paradigm id="414">
+		<f id="0" s="" g="32770" ps="12" />
+	</paradigm>
+	<paradigm id="415">
+		<f id="0" s="" g="1033" ps="0" />
+	</paradigm>
+	<paradigm id="416">
+		<f id="0" s="Y" g="4196418" ps="12" />
+		<f id="1" s="M" g="4196482" ps="12" />
+	</paradigm>
+	<paradigm id="417">
+		<f id="0" s="IS" g="65537" ps="16" />
+		<f id="1" s="ESE" g="65538" ps="16" />
+	</paradigm>
+	<paradigm id="418">
+		<f id="0" s="OU" g="2099264" ps="12" />
+		<f id="1" s="EE" g="2099328" ps="12" />
+	</paradigm>
+	<paradigm id="419">
+		<f id="0" s="" g="147713" ps="0" />
+		<f id="1" s="ES" g="131330" ps="0" />
+		<f id="2" s="S" g="131330" ps="0" />
+	</paradigm>
+	<paradigm id="420">
+		<f id="0" s="EAD" g="16777216" ps="2" />
+		<f id="1" s="EADS" g="12582913" ps="2" />
+		<f id="2" s="OD" g="33554432" ps="2" />
+		<f id="3" s="OD" g="67108864" ps="2" />
+		<f id="4" s="ODDEN" g="67108864" ps="2" />
+		<f id="5" s="EADING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="421">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="TED" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="TING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="422">
+		<f id="0" s="" g="1037" ps="0" />
+	</paradigm>
+	<paradigm id="423">
+		<f id="0" s="S" g="257" ps="0" />
+		<f id="1" s="RES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="424">
+		<f id="0" s="X" g="257" ps="0" />
+		<f id="1" s="X" g="258" ps="0" />
+		<f id="2" s="CES" g="258" ps="0" />
+	</paradigm>
+	<paradigm id="425">
+		<f id="0" s="AKE" g="16777216" ps="2" />
+		<f id="1" s="AKES" g="12582913" ps="2" />
+		<f id="2" s="AKED" g="33554432" ps="2" />
+		<f id="3" s="OKE" g="33554432" ps="2" />
+		<f id="4" s="AKED" g="67108864" ps="2" />
+		<f id="5" s="OKE" g="67108864" ps="2" />
+		<f id="6" s="OKEN" g="67108864" ps="2" />
+		<f id="7" s="AKING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="426">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="ES" g="12582913" ps="2" />
+		<f id="2" s="ED" g="33554432" ps="2" />
+		<f id="3" s="ED" g="67108864" ps="2" />
+		<f id="4" s="EN" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="427">
+		<f id="0" s="WE" g="1050690" ps="12" />
+		<f id="1" s="US" g="1050754" ps="12" />
+	</paradigm>
+	<paradigm id="428">
+		<f id="0" s="EAVE" g="16777216" ps="2" />
+		<f id="1" s="EAVES" g="12582913" ps="2" />
+		<f id="2" s="EAVED" g="33554432" ps="2" />
+		<f id="3" s="OVE" g="33554432" ps="2" />
+		<f id="4" s="OVE" g="67108864" ps="2" />
+		<f id="5" s="OVEN" g="67108864" ps="2" />
+		<f id="6" s="EAVING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="429">
+		<f id="0" s="WELL" g="0" ps="1" />
+		<f id="1" s="BETTER" g="262144" ps="1" />
+		<f id="2" s="BEST" g="524288" ps="1" />
+	</paradigm>
+	<paradigm id="430">
+		<f id="0" s="WELL" g="0" ps="11" />
+		<f id="1" s="BETTER" g="262144" ps="11" />
+		<f id="2" s="BEST" g="524288" ps="11" />
+	</paradigm>
+	<paradigm id="431">
+		<f id="0" s="" g="2112" ps="12" />
+		<f id="1" s="M" g="2176" ps="12" />
+	</paradigm>
+	<paradigm id="432">
+		<f id="0" s="EVER" g="4196417" ps="12" />
+		<f id="1" s="MEVER" g="4196481" ps="12" />
+	</paradigm>
+	<paradigm id="433">
+		<f id="0" s="SO" g="2112" ps="12" />
+		<f id="1" s="MSO" g="2176" ps="12" />
+	</paradigm>
+	<paradigm id="434">
+		<f id="0" s="SOEVER" g="2112" ps="12" />
+		<f id="1" s="MSOEVER" g="2176" ps="12" />
+	</paradigm>
+	<paradigm id="435">
+		<f id="0" s="ILL" g="16777216" ps="4" />
+		<f id="1" s="OULD" g="33554432" ps="4" />
+	</paradigm>
+	<paradigm id="436">
+		<f id="0" s="IN" g="16777216" ps="2" />
+		<f id="1" s="INS" g="12582913" ps="2" />
+		<f id="2" s="ON" g="33554432" ps="2" />
+		<f id="3" s="ON" g="67108864" ps="2" />
+		<f id="4" s="INNING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="437">
+		<f id="0" s="IND" g="16777216" ps="2" />
+		<f id="1" s="INDS" g="12582913" ps="2" />
+		<f id="2" s="INDED" g="33554432" ps="2" />
+		<f id="3" s="OUND" g="33554432" ps="2" />
+		<f id="4" s="INDED" g="67108864" ps="2" />
+		<f id="5" s="OUND" g="67108864" ps="2" />
+		<f id="6" s="INDING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="438">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="S" g="12582913" ps="2" />
+		<f id="2" s="" g="33554432" ps="2" />
+		<f id="3" s="" g="67108864" ps="2" />
+		<f id="4" s="ED" g="67108864" ps="2" />
+		<f id="5" s="ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="439">
+		<f id="0" s="" g="16777216" ps="2" />
+		<f id="1" s="'S" g="12582913" ps="2" />
+		<f id="2" s="-ED" g="33554432" ps="2" />
+		<f id="3" s="'D" g="67108864" ps="2" />
+		<f id="4" s="'ING" g="134217728" ps="2" />
+		<f id="5" s="-ING" g="134217728" ps="2" />
+	</paradigm>
+	<paradigm id="440">
+		<f id="0" s="" g="2099264" ps="12" />
+		<f id="1" s="" g="2099328" ps="12" />
+	</paradigm>
+	<paradigm id="441">
+		<f id="0" s="A" g="257" ps="0" />
+		<f id="1" s="I" g="258" ps="0" />
+	</paradigm>
+</paradigms>
+

@@ -1,0 +1,10 @@
+
+/*
+ * Copyright (C) 2007-2009, libturglem development team.
+ * This file is released under the LGPL.
+ * 
+ */
+
+#define TURGLEM_INSTALL_PREFIX  "${CMAKE_INSTALL_PREFIX}"
+#define TURGLEM_VERSION         "${TURGLEM_VERSION}"
+

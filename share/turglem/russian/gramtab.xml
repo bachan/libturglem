@@ -1,0 +1,80 @@
+<gramtab>
+	<parts_of_speech>
+		<PoS id="0"  short="NOUN"                   >существительное</PoS>              <!-- мама      -->
+		<PoS id="1"  short="ADJ_FULL"               >прилагательное</PoS>               <!-- красный   -->
+		<PoS id="2"  short="VERB"                   >глагол</PoS>                       <!-- идет      -->
+		<PoS id="3"  short="PRONOUN"                >местоимение</PoS>                  <!-- он        -->
+		<PoS id="4"  short="PRONOUN_P"              >местоименное прилагательное</PoS>  <!-- всякий    -->
+		<PoS id="5"  short="PRONOUN_PREDK"          >местоимение-предикатив</PoS>       <!-- нечего    -->
+		<PoS id="6"  short="NUMERAL"                >количественное числительное</PoS>  <!-- восемь    -->
+		<PoS id="7"  short="NUMERAL_P"              >порядковое числительное</PoS>      <!-- восьмой   -->
+		<PoS id="8"  short="ADV"                    >наречие</PoS>                      <!-- круто     -->
+		<PoS id="9"  short="PREDK"                  >предикатив</PoS>                   <!-- интересно -->
+		<PoS id="10" short="PREP"                   >предлог</PoS>                      <!-- под       -->
+		<PoS id="11" short="POSL"                   >послелог</PoS>                     <!-- ради      -->
+		<PoS id="12" short="CONJ"                   >союз</PoS>                         <!-- и         -->
+		<PoS id="13" short="INTERJ"                 >междометие</PoS>                   <!-- ой        -->
+		<PoS id="14" short="INP"                    >вводное слово</PoS>                <!-- конечно   -->
+		<PoS id="15" short="PHRASE"                 ></PoS>                             <!-- смотря    -->
+		<PoS id="16" short="PARTICLE"               >частица</PoS>                      <!-- же        -->
+		<PoS id="17" short="ADJ_SHORT"              >краткое прилагательное</PoS>       <!-- красив    -->
+		<PoS id="18" short="PARTICIPLE"             >причастие</PoS>                    <!-- идущий    -->
+		<PoS id="19" short="ADVERB_PARTICIPLE"      >деепричастие</PoS>                 <!-- идя       -->
+		<PoS id="20" short="PARTICIPLE_SHORT"       >краткое причастие</PoS>            <!-- ведом     -->
+		<PoS id="21" short="INFINITIVE"             >инфинитив</PoS>                    <!-- идти      -->
+	</parts_of_speech>
+	<grammems>
+		<grammem id="0"  short="plural"             >множ число</grammem>
+		<grammem id="1"  short="singular"           >един число</grammem>
+		<grammem id="2"  short="nominativ"          >именительный падеж</grammem>
+		<grammem id="3"  short="genitiv"            >родительный падеж</grammem>
+		<grammem id="4"  short="dativ"              >дательный падеж</grammem>
+		<grammem id="5"  short="accusativ"          >винительный падеж</grammem>
+		<grammem id="6"  short="instrumentalis"     >творительный падеж</grammem>
+		<grammem id="7"  short="locativ"            >предложный падеж</grammem>
+		<grammem id="8"  short="vocativ"            >звательный падеж</grammem>
+		<grammem id="9"  short="masculinum"         >мужской род</grammem>
+		<grammem id="10" short="feminum"            >женский род</grammem>
+		<grammem id="11" short="neutrum"            >средний род</grammem>
+		<grammem id="12" short="mascfem"            >мужской-женский род</grammem>
+		<grammem id="13" short="shortform"          >краткая форма</grammem>
+		<grammem id="14" short="presenttense"       >настоящее время</grammem>
+		<grammem id="15" short="futuretense"        >будущее время</grammem>
+		<grammem id="16" short="pasttense"          >прошедшее время</grammem>
+		<grammem id="17" short="firstperson"        >первое лицо</grammem>
+		<grammem id="18" short="secondperson"       >второе лицо</grammem>
+		<grammem id="19" short="thirdperson"        >третье лицо</grammem>
+		<grammem id="20" short="imperative"         >повелительное наклонение</grammem>
+		<grammem id="21" short="animative"          >одушевленный</grammem>
+		<grammem id="22" short="nonanimative"       >неодушевленный</grammem>
+		<grammem id="23" short="comparative"        >сравнительный</grammem>
+		<grammem id="24" short="perfective"         >совершенный вид</grammem>
+		<grammem id="25" short="nonperfective"      >несовершенный вид</grammem>
+		<grammem id="26" short="nontransitive"      >непереходный глагол</grammem>
+		<grammem id="27" short="transitive"         >переходный глагол</grammem>
+		<grammem id="28" short="activevoice"        >действительный залог</grammem>
+		<grammem id="29" short="passivevoice"       >страдательный залог</grammem>
+		<grammem id="30" short="indeclinable"       >несклоняемый</grammem>
+		<grammem id="31" short="initialism"         ></grammem>
+		<grammem id="32" short="patronymic"         ></grammem>
+		<grammem id="33" short="toponym"            >топоним</grammem>
+		<grammem id="34" short="organisation"       ></grammem>
+		<grammem id="35" short="qualitative"        >качественный</grammem>
+		<grammem id="36" short="defactosingtantum"  ></grammem>
+		<grammem id="37" short="interrogative"      >вопросительный</grammem>
+		<grammem id="38" short="demonstrative"      >указательный</grammem>
+		<grammem id="39" short="name"               >имя</grammem>
+		<grammem id="40" short="surname"            >фамилия</grammem>
+		<grammem id="41" short="impersonal"         >безличный</grammem>
+		<grammem id="42" short="slang"              >сленг</grammem>
+		<grammem id="43" short="misprint"           >опечатка</grammem>
+		<grammem id="44" short="colloquial"         >разговорный</grammem>
+		<grammem id="45" short="possessive"         >притяжательный</grammem>
+		<grammem id="46" short="archaism"           >архаизм</grammem>
+		<grammem id="47" short="secondcase"         ></grammem>
+		<grammem id="48" short="poetry"             ></grammem>
+		<grammem id="49" short="profession"         ></grammem>
+		<grammem id="50" short="superlative"        ></grammem>
+		<grammem id="51" short="positive"           ></grammem>
+	</grammems>
+</gramtab>

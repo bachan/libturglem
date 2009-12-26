@@ -1,0 +1,100 @@
+
+~ upcoming
+	* Change: accessories on lemmatize and automatons
+	* Change: ukraine charset adapters (determine language in swallow)
+	* Change: volapuk charset adapters (nelly offered a great name some days ago)
+
+~ Mon Sep 21 2009 libturglem-0.2.29
+	* Change: syntax error in lemc.cpp
+
+~ Tue Sep 01 2009 libturglem-0.2.28
+	* Change: suddenly human readable output support in auto_utility
+
+~ Thu Aug 27 2009 libturglem-0.2.27
+	* Change: del ПЛАТ(32) МАШИН(33) ЗАЛО(49) МЕТОДА(50) ПОДБОРА(50) ПОЛИВА(50) ТУРА(50)
+	* Change: del АД БЕЛА(59) КОЛОНОК(101) БЕЛ(158) КОЛОНОК(170) БАЗ(2363) ОСЯ(2498)
+	* Change: add ВНУТРЕДНЕВНЫЙ(0) АВТОГРУЗОПРЕВОЗКА(15) АВИАПЕВОЗКА(XXX15) АВИАПЕРРЕВОЗКА(XXX15) АВТОТЕСТ(32)
+	* Change: add АБДОМИНОПЛАСТИКА(39) АКВАРИУМИСТИКА(39) КОЛ-ВО(49) АБОНПЛАТА(50) ЦЕЛЮЛИТ(186)
+
+~ Thu Aug 27 2009 libturglem-0.2.26
+	* Change: del part of speech #11 [aka paradigm #2000, lemm РАДИ]
+	* Change: del paradigms without any lemmas
+	* Change: del ГАЗПРОМ-МЕДИА НЕУБИВАЙМЕНЯ as dignitysuckers
+	* Change: del БЕРЛИНА ВНУКА РАКА СТЕН ТРУСИК as archaic delusion
+	* Change: del ВОД ПОД as just-have-to-go defect
+	* Change: del Е|Ё indifference consequences and some effects of the removal itself
+	* Change: add БАНЕР ГЕРБЕРА ДЕМО МАЛЬДИВЫ ОНЛАЙН ПЕЖО ФИТНЕС ФИТНЕСС ЦЕЛЛЮЛИТ by prediction fixes
+	* Change: fix ТРАФИК ТРАФФИК (now plural number only)
+
+~ Thu Aug 27 2009 libturglem-0.2.25
+	* Change: clever default_*_adapter (on delimiter hell case)
+
+~ Mon Aug 24 2009 libturglem-0.2.22
+	* Change: <ADAPTER>_BUFFER_SIZE definition
+
+~ Thu Aug 20 2009 libturglem-0.2.21
+	* Change: dump_automat tool renamed to auto_utility
+	* Change: auto_utility dump with three filter types (one is broken)
+	* Change: auto_utility word or file as source
+	* Change: auto_utility adapter flag
+
+~ Thu Aug 20 2009 libturglem-0.2.20
+	* Change: show decimal digits instead of hex grammem bitmaps
+
+~ Wed Aug 19 2009 libturglem-0.2.19
+	* Change: dump_automat tool helpful in using *.auto
+
+~ Wed Aug 19 2009 libturglem-0.2.18
+	* Bugfix: parsing ASCII as invalid UTF-8 in default_utf8_adapter 
+
+~ Tue Aug 18 2009 libturglem-0.2.17
+	* Change: default charset adapters (greedy)
+
+~ Tue Aug 18 2009 libturglem-0.2.16
+	* Change: merged all languages into one source tree
+	* Change: adapters interface
+
+~ Sun Aug 02 2009 libturglem-0.2.15
+	* Change: lemq -n[form] "ONE|TWO|THREE" output
+	* Change: -n[ormform] renamed to -n[form]
+	* Change: (russian) removed identical paradigms in .0.xml
+	* Change: (russian) removed un-RL short adj forms in .1.xml
+	* Change: (russian) hack-impl with fake-paradigms in .2.xml
+
+~ Fri Jun 19 2009 libturglem-0.2.14
+	* Change: lemq supports verbose and quiet output
+	* Change: lemq supports disable of prediction support
+	* Change: lemm of 'IMHO' and 'MINI' (check grammems)
+
+~ Sun May 24 2009 libturglem-0.2.13
+	* Change: gramtab.xml information
+	* Change: lemq became more informative
+
+~ Mon May 18 2009 libturglem-0.2.12
+	* Change: gramtab.xml installing
+	* Bugfix: include <string> in charset_adapters.hpp
+
+~ Thu May 14 2009 libturglem-0.2.11
+	* Change: binary adapters
+
+~ Mon Apr 27 2009 libturglem-0.2.10
+	* Change: (russian) added koi8-u support
+
+~ Fri Apr 24 2009 libturglem-0.2.9
+	* Bugfix: (russian) lemmatization of 'PORNO' and 'SPORNO'
+
+~ Mon Jun 15 2009 libturglem-0.2.7
+	* Change: (russian) use_prediction flag in C++ wrapper
+
+~ Wed Mar 18 2009 libturglem-0.2.6
+	* Bugfix: headers with MAFSA-0.3.4
+	* Bugfix: CMake
+
+~ Mon Feb 02 2009 libturglem-0.2.5
+	* Bugfix: in CMake config (remove hardcoded values)
+	* Bugfix: compiler issues with extern and unused parameters
+
+~ Thu Jan 29 2009 libturglem-0.2.4
+	* Change: txml is available again as separate library
+	* Bugfix: in CMake config
+
