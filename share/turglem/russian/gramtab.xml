@@ -55,10 +55,10 @@
 		<grammem id="28" short="activevoice"        >действительный залог</grammem>
 		<grammem id="29" short="passivevoice"       >страдательный залог</grammem>
 		<grammem id="30" short="indeclinable"       >несклоняемый</grammem>
-		<grammem id="31" short="initialism"         ></grammem>
-		<grammem id="32" short="patronymic"         ></grammem>
+		<grammem id="31" short="initialism"         >инициализм (аббревиатура из первых букв)</grammem>
+		<grammem id="32" short="patronymic"         >отчество</grammem>
 		<grammem id="33" short="toponym"            >топоним</grammem>
-		<grammem id="34" short="organisation"       ></grammem>
+		<grammem id="34" short="organisation"       >организация</grammem>
 		<grammem id="35" short="qualitative"        >качественный</grammem>
 		<grammem id="36" short="defactosingtantum"  ></grammem>
 		<grammem id="37" short="interrogative"      >вопросительный</grammem>
@@ -73,8 +73,8 @@
 		<grammem id="46" short="archaism"           >архаизм</grammem>
 		<grammem id="47" short="secondcase"         ></grammem>
 		<grammem id="48" short="poetry"             ></grammem>
-		<grammem id="49" short="profession"         ></grammem>
-		<grammem id="50" short="superlative"        ></grammem>
+		<grammem id="49" short="profession"         >профессия</grammem>
+		<grammem id="50" short="superlative"        >превосходный</grammem>
 		<grammem id="51" short="positive"           ></grammem>
 	</grammems>
 </gramtab>

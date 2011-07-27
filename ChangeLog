@@ -3,6 +3,10 @@
 	* Change: accessories on lemmatize and automatons
 	* Change: ukraine charset adapters (determine language in swallow)
 	* Change: volapuk charset adapters (nelly offered a great name some days ago)
+	* Change: КОТ-Д'ИВУАР
+
+~ Wed Jul 27 2011 libturglem-0.2.30
+	* Change: -g flag in lemq_* (show all words with a group of grammems set)
 
 ~ Mon Sep 21 2009 libturglem-0.2.29
 	* Change: syntax error in lemc.cpp
