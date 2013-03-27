@@ -9,8 +9,8 @@
 #define __TURGLEM_LEMMATIZER_H__
 
 #include <MAFSA/automaton.h>
-#include <turglem/paradigms.h>
-#include <turglem/prediction.h>
+#include "paradigms.h"
+#include "prediction.h"
 
 #define TURGLEM_ERROR_NOMEM       1
 #define TURGLEM_ERROR_DICTIONARY  2

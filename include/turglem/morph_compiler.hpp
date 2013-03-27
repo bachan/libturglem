@@ -10,20 +10,20 @@
 
 #include <string.h>
 #include <inttypes.h>
-#include <txml/txml.hpp>
+#include <coda/txml.hpp>
 #include <MAFSA/daciuk.hpp>
 #include <turglem/string.hpp>
 
 template<typename _ABC>
 class morph_compiler
 {
-    struct paradigms_xml_loader : public txml::determination_object
+    struct paradigms_xml_loader : public coda::txml_determination_object
     {
-        struct ROOT : public txml::determination_object
+        struct ROOT : public coda::txml_determination_object
         {
-            struct PARADIGM : public txml::determination_object
+            struct PARADIGM : public coda::txml_determination_object
             {
-                struct FORM : public txml::determination_object
+                struct FORM : public coda::txml_determination_object
                 {
                     std::string prefix;
                     std::string suffix;
@@ -32,7 +32,7 @@ class morph_compiler
                     uint64_t grammem;
                     uint32_t id;
             
-                    void determine(txml::parser *parser)
+                    void determine(coda::txml_parser *parser)
                     {
                         parser->determineMember("s",  suffix);
                         parser->determineMember("ps", pos);
@@ -44,7 +44,7 @@ class morph_compiler
             
                 std::vector<FORM> forms;
             
-                void determine(txml::parser *parser)
+                void determine(coda::txml_parser *parser)
                 {
                     parser->determineMember("f", forms);
                 }
@@ -52,7 +52,7 @@ class morph_compiler
         
             std::vector<PARADIGM> paradigms;
         
-            void determine(txml::parser *parser)
+            void determine(coda::txml_parser *parser)
             {
                 parser->determineMember("paradigm", paradigms);
             }
@@ -60,23 +60,23 @@ class morph_compiler
 
         ROOT root;
 
-        void determine(txml::parser *parser)
+        void determine(coda::txml_parser *parser)
         {
             parser->determineMember("paradigms", root);
         }
     };
     
-    struct lemmas_xml_loader : public txml::determination_object
+    struct lemmas_xml_loader : public coda::txml_determination_object
     {
-        struct ROOT : public txml::determination_object
+        struct ROOT : public coda::txml_determination_object
         {
-            struct LEMMA : public txml::determination_object
+            struct LEMMA : public coda::txml_determination_object
             {
                 std::string word;
                 std::string prefix;
                 uint32_t idx;
             
-                void determine(txml::parser *parser)
+                void determine(coda::txml_parser *parser)
                 {
                     parser->determineMember("id", word);                                        
                     parser->determineMember("prefix", prefix);                    
@@ -86,7 +86,7 @@ class morph_compiler
             
             std::vector<LEMMA> ls;
         
-            void determine(txml::parser *parser)
+            void determine(coda::txml_parser *parser)
             {
                 parser->determineMember("l", ls);
             }
@@ -94,7 +94,7 @@ class morph_compiler
     
         ROOT root;
 
-        void determine(txml::parser *parser)
+        void determine(coda::txml_parser *parser)
         {
             parser->determineMember("lemmas", root);
         }

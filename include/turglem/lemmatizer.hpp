@@ -14,8 +14,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdexcept>
-#include <turglem/lemmatizer.h>
-#include <turglem/string.hpp>
+#include "lemmatizer.h"
+#include "string.hpp"
 
 namespace tl {
 
