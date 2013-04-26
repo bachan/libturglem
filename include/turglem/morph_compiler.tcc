@@ -107,7 +107,10 @@ void morph_compiler<_ABC>::save_main_dict(const char * dict_out)
             
             uint max_len = pref.size() > suff.size() ? pref.size() : suff.size();
             
-            add_stats(s, lemmas_loader.root.ls[i].idx, j, max_len);
+            if (form.pos < 3 || form.pos >= 18 || form.pos == 8)
+            {
+                add_stats(s, lemmas_loader.root.ls[i].idx, j, max_len);
+            }
 
             s.push_back(_ABC::max_letter);
 
