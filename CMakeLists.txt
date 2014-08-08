@@ -50,9 +50,9 @@ ADD_EXECUTABLE (lemc_russian src/utils/russian/lemc.cpp)
 ADD_EXECUTABLE (lemq_russian src/utils/russian/lemq.c)
 ADD_EXECUTABLE (auto_utility src/utils/auto.c)
 
-TARGET_LINK_LIBRARIES (lemc_english turglem-english coda ${LEXPAT})
+TARGET_LINK_LIBRARIES (lemc_english turglem-english ${LCODA} ${LEXPAT})
 TARGET_LINK_LIBRARIES (lemq_english turglem-english turglem ${LMAFSA})
-TARGET_LINK_LIBRARIES (lemc_russian turglem-russian coda ${LEXPAT})
+TARGET_LINK_LIBRARIES (lemc_russian turglem-russian ${LCODA} ${LEXPAT})
 TARGET_LINK_LIBRARIES (lemq_russian turglem-russian turglem ${LMAFSA})
 TARGET_LINK_LIBRARIES (auto_utility turglem-default turglem-english turglem-russian ${LMAFSA})
 
